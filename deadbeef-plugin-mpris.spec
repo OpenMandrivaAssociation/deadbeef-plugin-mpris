@@ -5,7 +5,7 @@
 Summary:	MPRIS support plugin for DeaDBeeF
 Name:		deadbeef-plugin-mpris
 Version:	2.1.5
-Release:	2
+Release:	3
 License:	GPLv3+
 Group:		Sound
 Url:		https://github.com/kernelhcy/DeaDBeeF-MPRIS-plugin
